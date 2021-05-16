@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-	<h1>Anúncios</h1>
+	<h1>Anúnciosf</h1>
 	<a href="novo.html" class="botao1">Novo Anúncio</a>
 </body>
 </html>
